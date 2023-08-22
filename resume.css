@@ -1,0 +1,31 @@
+.new-heads {
+    margin-left: 17.5rem;
+    margin-right: 25rem;
+}
+
+.skill-text {
+    margin-left: 18.8rem;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.cards-exp {
+    margin-left: -1rem;
+}
+.card {
+    margin-left: 5px;
+}
+
+.wrapper {
+    margin-left: 8rem;
+}
+
+.card-img-top1 {
+    height: 7rem;
+    width: 7rem;
+    align-self: center;
+}
+* {
+    font-size: 20px; 
+    font-family: sans-serif;
+  }
